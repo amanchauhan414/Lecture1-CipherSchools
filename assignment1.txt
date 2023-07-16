@@ -1,0 +1,22 @@
+Queries Fast-> CRUD Create Read Update Delete
+
+indexes to make our queries faster
+
+matrix [m][n]
+
+for column in n:
+
+print(matrix[0][column])
+
+for(int i=0;i<n;i++){
+
+cout << matrix [0][i
+
+Database:-
+
+ID, Name,Age,Password
+
+1.Satyam, 14, hello world
+
+4, Ayush, 20, Hello everyone
+
